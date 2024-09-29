@@ -1,0 +1,1 @@
+This repository contains code for analysis of neural weather models (NWMs) over New Zealand. For a copy of the data being analysed, please contact the authors.
